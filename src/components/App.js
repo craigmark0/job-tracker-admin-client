@@ -12,7 +12,7 @@ class App extends React.Component {
     render() {
         return (
             <ThemeProvider theme={sassGlobals}>
-                <Wrapper>If your reading this, the boiler plate works!!</Wrapper>
+                <Wrapper>If your reading this, the boiler plate works!!!!</Wrapper>
             </ThemeProvider>
         )
     }
